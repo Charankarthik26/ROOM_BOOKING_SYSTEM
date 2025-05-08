@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Deluxe Room",
+      "price": 120,
+      "facilities": ["WiFi", "TV", "AC"],
+      "image": "deluxe.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Standard Room",
+      "price": 80,
+      "facilities": ["WiFi", "Fan"],
+      "image": "standard.jpg"
+    }
+  ]
+  
